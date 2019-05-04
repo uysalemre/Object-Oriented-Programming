@@ -1,2 +1,10 @@
-# Object-Oriented-Programming
-This repository contains ITU OOP course projects. All of the oop methodologies are used in these projects.
+# Object Oriented Programming Projects
+  - You can find all of the oop methodologies these projects.
+  - Operator overloading
+  - Abstract Classes
+  - Polymorphism
+  - Inheritance
+  - Function Overloading
+  - Constructors Destructors
+  - Encapsulation
+
